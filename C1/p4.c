@@ -1,5 +1,4 @@
-/** print all characters before the first blank in the data 
- */
+/** print all characters before the first blank in the data */
 #include <stdio.h>
 int main ()
 {
